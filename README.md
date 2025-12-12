@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M102003
+- 👋 Hi, I’m MRITYUNJOY MUKHERJEE
 - 👀 I’m interested in cricket 
 - 🌱 I’m currently learning Information Technology 
 - 💞️ I’m looking to collaborate on Github
